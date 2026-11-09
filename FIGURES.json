@@ -1,0 +1,27 @@
+[
+  {
+    "figure": "figures/modes.png",
+    "sha256": "b9c81eceaf9c6fdd5e170b71f1d3b08d1508f0eaaa5532e6b8c571f97aae0a31",
+    "kind": "selected author-provided research figure"
+  },
+  {
+    "figure": "figures/facet.png",
+    "sha256": "52fd4dd940e21b8466b95d0b70849ceb68f50e40960853577ba883b65b39321f",
+    "kind": "selected author-provided research figure"
+  },
+  {
+    "figure": "figures/taper.png",
+    "sha256": "daa5393fac9200d26b1734b6c4c09de6581441275ed1212ed52c0862c245fe5d",
+    "kind": "selected author-provided research figure"
+  },
+  {
+    "figure": "figures/mmi.png",
+    "sha256": "bdf59c4120583b2b5bf3c8bcba8174ec6b1b56d508c486b686d5002d7bbe64b1",
+    "kind": "selected author-provided research figure"
+  },
+  {
+    "figure": "figures/circuit.png",
+    "sha256": "a5ec6a23f3b49d4262e41372171bf3f310d955549760cf5cb0fa2868035d156b",
+    "kind": "selected author-provided research figure"
+  }
+]
