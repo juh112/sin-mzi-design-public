@@ -42,8 +42,7 @@ The oxide-reference model uses a straight-guide control to check port mapping. M
 
 ![Ansys Lumerical INTERCONNECT spectra](figures/circuit.png)
 
-Existing INTERCONNECT runs compare balanced arms, arm-loss imbalance and an unequal combiner. Complementary outputs reveal how component assumptions affect fringe contrast and normalized readout. The circuit uses ideal couplers and an assumed group index; it is not a measured chip or a validated geometry-extracted full circuit.
-
+Existing INTERCONNECT runs compare balanced arms, arm-loss imbalance and an unequal combiner. Complementary outputs reveal how component assumptions affect fringe contrast and normalized readout. The circuit uses ideal couplers and an assumed group index.
 ## What the study changes
 
 The models identify separate checks for mode selection, component loss, arm imbalance and facet alignment. The proposed readout uses a fiber-array interface and two detectors, with reference structures to separate coupling loss from sensing-path loss. This architecture remains planned chip characterization.
