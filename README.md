@@ -1,6 +1,6 @@
 # Silicon Nitride Interferometers
 
-**Jun Young Hong · Optical-mode analysis, component propagation and dual-output circuits**
+**Optical-mode analysis, component propagation and dual-output circuits**
 
 This design study examines how a material-interaction window and imperfect optical components affect a 1550 nm Mach–Zehnder interferometer. The engineering goal is to connect modal overlap, loss and component balance with measurements that can distinguish the underlying causes.
 
