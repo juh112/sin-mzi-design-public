@@ -4,15 +4,15 @@
 
 This design and fabrication study examines how a material-interaction window and imperfect optical components affect a 1550 nm Mach–Zehnder interferometer. The engineering goal is to connect modal overlap, loss and component balance with measurements that can distinguish the underlying causes.
 
-![Optical micrographs of the first fabricated SiN MZI test die](figures/fabricated.png)
+![Optical micrographs of the fabricated SiN MZI test die](figures/fabricated.png)
 
-*First fabricated test die (November 2026). MZIs with cladding windows for field-odd and field-even responses, after window etch and resist removal. Optical transmission measurements are next.*
+*Fabricated test die. MZIs with cladding windows for field-odd and field-even responses, after window etch and resist removal. Optical transmission measurements are next.*
 
 ![Stylus profiles and depth of the cladding windows on four dies](figures/window_depth.png)
 
 *Window depth measured by stylus profilometry on four dies. All nine scans fall within 2.00 to 2.05 µm (mean 2.02 µm), so the etch reached the same depth across the wafer.*
 
-**Stage:** first test chips fabricated (November 2026). Chip readout and complete fiber-array coupling remain to be validated.
+**Stage:** test chips fabricated. Chip readout and complete fiber-array coupling remain to be validated.
 
 ```mermaid
 flowchart LR
