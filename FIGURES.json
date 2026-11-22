@@ -1,5 +1,15 @@
 [
   {
+    "figure": "figures/fabricated.png",
+    "sha256": "e5be6e8fd2cb1af0cb47363a0dd70bba5fda4d3cea8264c56fa0cdd1c519d682",
+    "kind": "selected author-provided research figure"
+  },
+  {
+    "figure": "figures/window_depth.png",
+    "sha256": "11eb40e7f7a10d904602b69beccad59bbab262f5ead93068b142192d12107b5d",
+    "kind": "selected author-provided research figure"
+  },
+  {
     "figure": "figures/modes.png",
     "sha256": "b9c81eceaf9c6fdd5e170b71f1d3b08d1508f0eaaa5532e6b8c571f97aae0a31",
     "kind": "selected author-provided research figure"
@@ -22,16 +32,6 @@
   {
     "figure": "figures/circuit.png",
     "sha256": "a5ec6a23f3b49d4262e41372171bf3f310d955549760cf5cb0fa2868035d156b",
-    "kind": "selected author-provided research figure"
-  },
-  {
-    "figure": "figures/fabricated.png",
-    "sha256": "0e8125fd8289611393d52f5548470a8f29a82516cba137d8ae932867570c4bd3",
-    "kind": "selected author-provided research figure"
-  },
-  {
-    "figure": "figures/window_depth.png",
-    "sha256": "900ed07fb48f25484b23834ab2f94d2948d5ea8f66aa11786dc8207b1f409484",
     "kind": "selected author-provided research figure"
   }
 ]
