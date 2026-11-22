@@ -28,5 +28,10 @@
     "figure": "figures/fabricated.png",
     "sha256": "f1d235860eb68ae96d8d6e9166a02cdde44874d18d3d8a8072d6a295006f0fee",
     "kind": "selected author-provided research figure"
+  },
+  {
+    "figure": "figures/window_depth.png",
+    "sha256": "900ed07fb48f25484b23834ab2f94d2948d5ea8f66aa11786dc8207b1f409484",
+    "kind": "selected author-provided research figure"
   }
 ]
