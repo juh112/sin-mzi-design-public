@@ -2,7 +2,11 @@
 
 **Optical-mode analysis, component propagation and dual-output circuits**
 
-This design study examines how a material-interaction window and imperfect optical components affect a 1550 nm Mach–Zehnder interferometer. The engineering goal is to connect modal overlap, loss and component balance with measurements that can distinguish the underlying causes.
+This design and fabrication study examines how a material-interaction window and imperfect optical components affect a 1550 nm Mach–Zehnder interferometer. The engineering goal is to connect modal overlap, loss and component balance with measurements that can distinguish the underlying causes.
+
+![Optical micrographs of the first fabricated SiN MZI test die](figures/fabricated.png)
+
+*First fabricated test die (November 2026). MZIs with cladding windows for field-odd and field-even responses, after window etch and resist removal. Optical transmission measurements are next.*
 
 **Stage:** first test chips fabricated (November 2026). Chip readout and complete fiber-array coupling remain to be validated.
 
@@ -43,12 +47,6 @@ The oxide-reference model uses a straight-guide control to check port mapping. M
 ![Ansys Lumerical INTERCONNECT spectra](figures/circuit.png)
 
 Existing INTERCONNECT runs compare balanced arms, arm-loss imbalance and an unequal combiner. Complementary outputs reveal how component assumptions affect fringe contrast and normalized readout. The circuit uses ideal couplers and an assumed group index.
-
-## 5. Fabricate the first test die
-
-![Optical micrographs of the fabricated SiN MZI test die](figures/fabricated.png)
-
-The first test die carries MZIs with cladding windows placed for field-odd and field-even responses. Optical micrographs show the Y-branch splitter, routing bends and an opened window over one arm. Window opening and depth were checked after resist removal. Optical transmission measurements have not been made yet.
 
 ## What the study changes
 
