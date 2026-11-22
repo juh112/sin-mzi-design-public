@@ -10,7 +10,7 @@ This design and fabrication study examines how a material-interaction window and
 
 ![Stylus profiles and depth of the cladding windows on four dies](figures/window_depth.png)
 
-*Window depth measured by stylus profilometry on four dies. All nine scans fall within 2.00 to 2.05 µm (mean 2.02 µm), so the etch reached the same depth across the wafer.*
+*Window depth measured by stylus profilometry on four dies. All nine scans fall within 2.00 to 2.05 µm (mean 2.02 µm), showing a uniform etch depth across the wafer.*
 
 **Stage:** test chips fabricated. Chip readout and complete fiber-array coupling remain to be validated.
 
