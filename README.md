@@ -4,7 +4,7 @@
 
 This design study examines how a material-interaction window and imperfect optical components affect a 1550 nm Mach–Zehnder interferometer. The engineering goal is to connect modal overlap, loss and component balance with measurements that can distinguish the underlying causes.
 
-**Stage:** simulation and layout study. Chip readout and complete fiber-array coupling remain to be validated.
+**Stage:** first test chips fabricated (November 2026). Chip readout and complete fiber-array coupling remain to be validated.
 
 ```mermaid
 flowchart LR
@@ -43,6 +43,13 @@ The oxide-reference model uses a straight-guide control to check port mapping. M
 ![Ansys Lumerical INTERCONNECT spectra](figures/circuit.png)
 
 Existing INTERCONNECT runs compare balanced arms, arm-loss imbalance and an unequal combiner. Complementary outputs reveal how component assumptions affect fringe contrast and normalized readout. The circuit uses ideal couplers and an assumed group index.
+
+## 5. Fabricate the first test die
+
+![Optical micrographs of the fabricated SiN MZI test die](figures/fabricated.png)
+
+The first test die carries MZIs with cladding windows placed for field-odd and field-even responses. Optical micrographs show the Y-branch splitter, routing bends and an opened window over one arm. Window opening and depth were checked after resist removal. Optical transmission measurements have not been made yet.
+
 ## What the study changes
 
 The models identify separate checks for mode selection, component loss, arm imbalance and facet alignment. The proposed readout uses a fiber-array interface and two detectors, with reference structures to separate coupling loss from sensing-path loss. This architecture remains planned chip characterization.

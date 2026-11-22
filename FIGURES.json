@@ -23,5 +23,10 @@
     "figure": "figures/circuit.png",
     "sha256": "a5ec6a23f3b49d4262e41372171bf3f310d955549760cf5cb0fa2868035d156b",
     "kind": "selected author-provided research figure"
+  },
+  {
+    "figure": "figures/fabricated.png",
+    "sha256": "f1d235860eb68ae96d8d6e9166a02cdde44874d18d3d8a8072d6a295006f0fee",
+    "kind": "selected author-provided research figure"
   }
 ]
