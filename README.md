@@ -57,3 +57,16 @@ Existing INTERCONNECT runs compare balanced arms, arm-loss imbalance and an uneq
 The models identify separate checks for mode selection, component loss, arm imbalance and facet alignment. The proposed readout uses a fiber-array interface and two detectors, with reference structures to separate coupling loss from sensing-path loss. This architecture remains planned chip characterization.
 
 [Evidence and disclosure scope](CONTENT_NOTES.md) · [Optical-bench portfolio](https://github.com/juh112/photonics-testbenches-public)
+
+## Research status and future updates
+
+This repository is an evolving record of interferometer design, fabrication, and characterization. New devices or measurement campaigns can be documented as additional studies without replacing earlier models or observations.
+
+| Workstream | Current evidence | Future additions |
+|---|---|---|
+| **Modes & material interaction** | COMSOL mode-field and overlap studies | New stacks, interaction geometries, and sensitivity checks |
+| **Components & circuits** | MODE/EME taper and MMI studies; INTERCONNECT circuit predictions | Component variants, convergence studies, and updated circuit models |
+| **Fabrication & metrology** | Fabricated test dies and measured window-depth profiles | Additional die measurements, process comparisons, and cross-sections |
+| **Optical characterization** | Proposed fiber-array and dual-detector verification architecture | Alignment tests, reference-path measurements, and measured two-output spectra |
+
+**Evidence convention:** simulated predictions, fabricated structures, instrument observations, and validated optical performance are distinct evidence levels. At present, complete optical transmission and chip readout are not validated. Future entries should identify dates, device variants, measurement controls, and supporting files when public disclosure is permitted.
